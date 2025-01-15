@@ -2,6 +2,6 @@
 
 use Portfolio\Router\Router;
 
-require '/lib/autoload.php';
+require 'lib/autoload.php';
 
 new Router();
