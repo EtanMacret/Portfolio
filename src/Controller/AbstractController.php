@@ -1,6 +1,6 @@
 <?php
 
-namespace Portfolio\Controller;
+namespace App\Controller;
 
 abstract class AbstractController {
 

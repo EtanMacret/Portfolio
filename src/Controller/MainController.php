@@ -2,8 +2,6 @@
 
 namespace App\Controller;
 
-use Portfolio\Controller\AbstractController;
-
 class MainController extends AbstractController {
 
     public function home() {
@@ -21,6 +19,14 @@ class MainController extends AbstractController {
 
     public function competences() {
         return $this->renderView('main/competences.php', ['title' => 'Competences']);
+    }
+
+    public function synthese() {
+        return $this->renderView('main/synthese.php', ['title' => 'Synthese']);
+    }
+
+    public function glpi() {
+        return $this->renderView('main/glpi.php', ['title' => 'GLPI']);
     }
 
 }

@@ -9,6 +9,11 @@
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
             crossorigin="anonymous"
     >
+    <style>
+        .content{
+            min-height: 80vh;
+        }
+    </style>
     <title><?= $data['title'] ?></title>
 </head>
 <body>
@@ -21,15 +26,20 @@
         <li class="nav-item"><a href="/" class="nav-link <?= $data['title'] == 'Accueil' ? 'active' : '' ; ?>">Acceuil</a></li>
         <li class="nav-item"><a href="/parcours" class="nav-link <?= $data['title'] == 'Parcours' ? 'active' : '' ; ?>">Parcours</a></li>
         <li class="nav-item"><a href="/competences" class="nav-link <?= $data['title'] == 'Competences' ? 'active' : '' ; ?>">Competences</a></li>
+        <li class="nav-item"><a href="/synthese" class="nav-link <?= $data['title'] == 'Synthese' ? 'active' : '' ; ?>">Synthese</a></li>
         <li class="nav-item"><a href="/contact" class="nav-link <?= $data['title'] == 'Contact' ? 'active' : '' ; ?>">Contact</a></li>
       </ul>
     </header>
+
+    <div class="m-2 content">
         <?php require $templatePath ?>
+    </div>
 
 
-        <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 border-top" style="background-color: #212529; position: fixed; bottom: 0; width: 100%">
+
+        <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 border-top" style="background-color: #212529; position: relative; bottom: 0; width: 100%">
             <div class="col-md-4 d-flex align-items-center">    
-            <span  style="color: #f8f9fa;">© 2024 Macret Etan</span>
+            <span  style="color: #f8f9fa;">©2024 Macret Etan</span>
             </div>
 
             <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
