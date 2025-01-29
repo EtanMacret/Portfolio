@@ -24,6 +24,10 @@ const ROUTES = [
     'glpi' => [
         'controller' => App\Controller\MainController::class,
         'method' => 'glpi'
+    ],
+    'HAProxy' => [
+        'controller' => App\Controller\MainController::class,
+        'method' => 'haproxy'
     ]
 
 ];

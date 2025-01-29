@@ -11,7 +11,7 @@
     >
     <style>
         .content{
-            min-height: 80vh;
+            min-height: 77.7vh;
         }
     </style>
     <title><?= $data['title'] ?></title>

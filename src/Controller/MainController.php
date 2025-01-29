@@ -29,4 +29,8 @@ class MainController extends AbstractController {
         return $this->renderView('main/glpi.php', ['title' => 'GLPI']);
     }
 
+    public function haproxy() {
+        return $this->renderView('main/haproxy.php', ['title' => 'HAProxy']);
+    }
+
 }

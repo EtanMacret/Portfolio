@@ -53,6 +53,16 @@
         <td>X</td>
     </tr>
     <tr>
+        <td><a href="HAProxy">HAProxy</a></td>
+        <td>22/01/2025 - 29/01/2025</td>
+        <td><a href="HAProxy#test">X</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><a href="HAProxy#installation">X</a></td>
+        <td><a href="HAProxy#configuration">X</a></td>
+    </tr>
+    <tr>
         <th></th>
         <th></th>
         <th></th>
