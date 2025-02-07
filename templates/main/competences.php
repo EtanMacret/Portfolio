@@ -8,7 +8,7 @@
                     <div
                             class="progress-bar"
                             role="progressbar"
-                            style="width: 50%; background-color: #7851A9;"
+                            style="width: 75%; background-color: #7851A9;"
                             aria-valuenow="75"
                             aria-valuemin="0"
                             aria-valuemax="100">
@@ -38,7 +38,7 @@
                     <div
                             class="progress-bar"
                             role="progressbar"
-                            style="width: 50%; background-color: #7851A9;"
+                            style="width: 10%; background-color: #7851A9;"
                             aria-valuenow="10"
                             aria-valuemin="0"
                             aria-valuemax="100">
@@ -53,7 +53,7 @@
                     <div
                             class="progress-bar"
                             role="progressbar"
-                            style="width: 50%; background-color: #7851A9;"
+                            style="width: 10%; background-color: #7851A9;"
                             aria-valuenow="10"
                             aria-valuemin="0"
                             aria-valuemax="100">
@@ -70,7 +70,7 @@
                     <div
                             class="progress-bar"
                             role="progressbar"
-                            style="width: 50%; background-color: #7851A9;"
+                            style="width: 75%; background-color: #7851A9;"
                             aria-valuenow="75"
                             aria-valuemin="0"
                             aria-valuemax="100">
@@ -85,7 +85,7 @@
                     <div
                             class="progress-bar"
                             role="progressbar"
-                            style="width: 50%; background-color: #7851A9;"
+                            style="width: 75%; background-color: #7851A9;"
                             aria-valuenow="75"
                             aria-valuemin="0"
                             aria-valuemax="100">
@@ -100,7 +100,7 @@
                     <div
                             class="progress-bar"
                             role="progressbar"
-                            style="width: 50%; background-color: #7851A9;"
+                            style="width: 75%; background-color: #7851A9;"
                             aria-valuenow="75"
                             aria-valuemin="0"
                             aria-valuemax="100">
@@ -147,7 +147,7 @@
                     <div
                             class="progress-bar"
                             role="progressbar"
-                            style="width: 50%; background-color: #7851A9;"
+                            style="width: 25%; background-color: #7851A9;"
                             aria-valuenow="25"
                             aria-valuemin="0"
                             aria-valuemax="100">
@@ -177,7 +177,7 @@
                     <div
                             class="progress-bar"
                             role="progressbar"
-                            style="width: 50%; background-color: #7851A9;"
+                            style="width: 10%; background-color: #7851A9;"
                             aria-valuenow="10"
                             aria-valuemin="0"
                             aria-valuemax="100">
