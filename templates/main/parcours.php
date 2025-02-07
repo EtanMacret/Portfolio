@@ -41,7 +41,7 @@
 </div>
 
 <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 80%; background-color: #7851A9;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar" role="progressbar" style="width: 92.5%; background-color: #7851A9;" aria-valuenow="92.5" aria-valuemin="0" aria-valuemax="100"></div>
 </div>
 
 
