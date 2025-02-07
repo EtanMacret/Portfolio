@@ -1,15 +1,15 @@
 <div class="d-flex flex-md-row p-4 gap-4 py-md-5 align-items-center justify-content-center">
-    <div class="card">
+    <div class="card" style="width: 45%;">
         <div class="card-body">
             <h5>Bac generale</h5>
             <sub>2018-2021</sub>
             <p>
                 Specialite : Mathematique, NSI <br>
-                Lycee Gay Lusac, Chauny
+                Lycee Gay Lussac, Chauny
             </p>
         </div>
     </div>
-    <div class="card">
+    <div class="card" style="width: 30%;">
         <div class="card-body">
             <h5>BTS SN</h5>
             <sub>2021-2023</sub>
@@ -19,7 +19,7 @@
             </p>
         </div>
     </div>
-    <div class="card">
+    <div class="card" style="width: 14%;">
         <div class="card-body">
             <h5>Annee de cesure</h5>
             <sub>2023-2024</sub>
@@ -28,7 +28,7 @@
             </p>
         </div>
     </div>
-    <div class="card">
+    <div class="card" style="width: 14%;">
         <div class="card-body">
             <h5>BTS SIO</h5>
             <sub>2024-2025</sub>
@@ -49,7 +49,7 @@
     <div class="card">
         <div class="card-body">
             <h5>Stage en entreprise</h5>
-            <sub>2022-2023</sub>
+            <sub>Avril 2022 - Juin 2022</sub>
             <p>
                 Stage SiteConseil<br>
                 SiteConseil, Saint-Quentin

@@ -14,7 +14,7 @@
     </tr>
     <tr>
         <td>AP ruche connecté</td>
-        <td>--/--/2022 - --/--/2022</td>
+        <td>--/--/2022 - --/--/2023</td>
         <td></td>
         <td></td>
         <td></td>
@@ -74,7 +74,7 @@
     </tr>
     <tr>
         <td>Exercice garfikart</td>
-        <td>--/--/2021 - --/--/2021</td>
+        <td>--/04/2022 - --/06/2022</td>
         <td></td>
         <td></td>
         <td></td>
